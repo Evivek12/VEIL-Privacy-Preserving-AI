@@ -1,0 +1,1 @@
+Place the permitted PUPA dataset files here after obtaining them from the official PAPILLON release and checking the licence. No dataset is bundled with this starter project.
